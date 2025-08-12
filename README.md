@@ -28,7 +28,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/Sivanesan-m/Simple-my-first-portfolio-on-only-html-and-css-repo.git
 Open index.html in any web browser.
 
 🛠 Technologies Used
