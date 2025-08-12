@@ -1,2 +1,42 @@
-# Simple-my-first-portfolio-on-only-html-and-css-
-A clean and minimal HTML portfolio built entirely from scratch without using templates or external references. Showcasing my own design approach and coding style, this project highlights my skills in HTML, CSS, and basic interactivity, serving as a personal space to present my work and profile online.
+Simple HTML Portfolio
+A clean and minimal portfolio website built entirely from scratch using my own code — no templates, no external references. Designed to showcase my personal projects, skills, and profile in a simple and elegant way.
+
+🚀 Features
+Custom Design: 100% self-coded HTML & CSS without using any templates.
+
+Responsive Layout: Works on desktops, tablets, and mobile devices.
+
+Simple Navigation: Easy-to-use structure for quick access to sections.
+
+Personal Branding: Includes my profile, skills, and contact details.
+
+Lightweight: Fast loading and minimal resources.
+
+📂 How to View
+On GitHub Pages:
+
+Go to the repository settings.
+
+Enable GitHub Pages.
+
+Open the generated link to view the portfolio online.
+
+On Local Machine:
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Sivanesan-m/Simple-my-first-portfolio-on-only-html-and-css-repo.git
+Open index.html in any web browser.
+
+🛠 Technologies Used
+HTML5
+
+CSS3
+
+📬 Contact
+Feel free to connect or share feedback!
+
+
